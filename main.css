@@ -1,3 +1,19 @@
 *{
     font-family: 'TrebuchetMS', 'ArialMT', sans-serif;
 }
+
+body{
+    max-width: 90%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 50px;
+    line-height: 150%;
+}
+
+h1{
+    font-weight: normal;
+}
+
+#NoBulletList li{
+    list-style-type: none;
+}
