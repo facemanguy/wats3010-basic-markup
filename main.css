@@ -4,6 +4,7 @@
 
 body{
     max-width: 90%;
+    margin-top: 5%;
     margin-left: 10%;
     margin-right: 10%;
     padding: 50px;
@@ -16,4 +17,8 @@ h1{
 
 #NoBulletList li{
     list-style-type: none;
+}
+
+#MainImg img{
+    min-width: 90%;
 }
